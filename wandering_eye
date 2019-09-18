@@ -8,7 +8,7 @@
  *******************************************************************/
 
 // ----------------------------
-// Standard Libraries - Already Installed if you have ESP8266 set up
+// Standard Libraries - Already Installed if you have ESP32 set up
 // ----------------------------
 
 #include <Ticker.h>
